@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Niroj Gautam
 
-<!--
-**NirojG/NirojG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Business Information Technology student at Haaga-Helia University of Applied Sciences, Helsinki, Finland.**
 
-Here are some ideas to get you started:
+I build software, work with ICT infrastructure, and develop ML/AI applications and agentic automation. Through projects, coursework, and hands-on labs, I practice MLOps, cybersecurity, and AI safety.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hackathons & Tech Community
+
+- Participated in and won hackathons, turning ideas into working solutions with a team.
+- Worked and volunteered at technology events, supporting the tech community.
+
+## Tech Stack & Practice
+
+- **Languages:** Python, Java, JavaScript, PHP
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Express.js
+- **MERN Stack:** MongoDB · Express.js · React · Node.js
+- **Databases:** PostgreSQL, Microsoft SQL Server, MySQL, SQLite, MongoDB
+- **Database Tools:** SQL Server Management Studio (SSMS)
+- **Systems & Servers:** Linux, Windows, operating systems, server administration, networking, Bash, PowerShell
+- **Development Tools:** Git, GitHub, Git Bash
+- **ML & AI:** machine learning, AI application development, LLM API integration, agentic AI, and workflow automation
+- **MLOps & CI/CD:** machine learning workflows, CI/CD pipelines, automated testing, and deployment automation
+- **Cybersecurity:** defensive and offensive security practice in authorized labs, system hardening, vulnerability assessment, and network security
+- **Cloud:** AWS, cloud infrastructure fundamentals, and deployment
+
+## Connect
+
+[Portfolio](https://www.nirojgautam.com.np/) · [LinkedIn](https://fi.linkedin.com/in/nirojgautam)
