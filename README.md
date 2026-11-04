@@ -2,7 +2,7 @@
 
 **Business Information Technology student at Haaga-Helia University of Applied Sciences, Helsinki, Finland.**
 
-I build software and develop ML/AI applications and agentic automation. My major is ICT infrastructure and cloud services, combining hands-on work with a deep understanding of systems, networks, and cloud environments. Through projects, coursework, and hands-on labs, I also practice MLOps, cybersecurity, and AI safety.
+I build software and develop ML/AI applications and agentic automation. I have deeper knowledge in ICT infrastructure and cloud services, combining hands-on work with a deep understanding of systems, networks, and cloud environments. Through projects, coursework, and hands-on labs, I also practice MLOps, cybersecurity, and AI safety.
 
 ## Hackathons & Tech Community
 
