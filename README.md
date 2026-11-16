@@ -6,7 +6,8 @@ I build software and develop ML/AI applications and agentic automation. I have d
 
 ## Hackathons & Tech Community
 
-- Participated in and won hackathons, turning ideas into working solutions with a team.
+- Won hackathons, turning ideas into working solutions with a team.
+- Participated in various tech events and knowledge hubs.
 - Worked and volunteered at technology events, supporting the tech community.
 
 ## Tech Stack & Practice
